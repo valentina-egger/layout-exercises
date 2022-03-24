@@ -2,7 +2,7 @@
 
 Based on this project, you now need to implement the following layout.
 
-<img src="demo.png" alt="demo"/>
+<img src="./images/demo.png" alt="demo"/>
 
 There are a few ways in which you could achieve some of these tasks, and there often isn't a single right or wrong way to do things.
 The tasks you need to achieve are:
